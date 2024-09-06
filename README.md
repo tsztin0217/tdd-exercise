@@ -98,7 +98,7 @@ We will write a method called:  `blackjack_score` which take a list of card valu
 
 *Note: These last two cases may be better handled by raising an exception (as opposed to returning `"Invalid"` and `"Bust"`).We can consider that when we learn more about raising exceptions.*
 
-In this exercise we will complete the given tests in `test_blackjack_score.py` and updating the `blackjack_score` function in `main.py` to make it pass.
+In this exercise we will complete the given tests in `test_blackjack_score.py` and update the `blackjack_score` function in `main.py` to make it pass.
 
 - Step 1:  Complete the given test and comment out `@pytest.mark.skip`
 - Step 2:  Update `blackjack_score` to pass the test. Execute the tests by running the command `pytest` in the terminal.
