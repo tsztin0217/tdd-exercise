@@ -51,7 +51,7 @@ Follow these directions once when you start working on this Part 2 **during roun
 $ cd ~/Developer/projects
 ```
 
-1. In Github click on the green "Code" button in Github and then copy the URL. This will allow you to download a copy of this project into your projects folder. This command makes a new folder called `tdd-exercise`, and then puts the project into this new folder. 
+1. In Github, fork the project then click on the green "Code" button in Github and then copy the URL. This will allow you to download a copy of this project into your projects folder. This command makes a new folder called `tdd-exercise`, and then puts the project into this new folder. 
    
 ![Cloning a repository in Github](images/cloning_a_repo.png)
 
